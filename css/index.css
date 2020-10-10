@@ -1,0 +1,22 @@
+body{
+	background-color: #D04CD6;
+}
+#header{
+	background-color: #CA91CD;
+	margin:4%;
+}
+#main{
+	background-color: #CA91CD;
+	margin:4%;
+	padding:2%;
+}
+.sidebar{
+	background-color: #4A589C;  
+}
+.article{
+	background-color:#4A589C;  
+}
+#footer{
+	background-color: #CA91CD; 
+	margin:4%; 
+}

@@ -1,0 +1,38 @@
+h1{
+	color:red;
+	background-color: yellow;
+}
+
+
+/*css comments*/
+#gayathri{
+	color:yellow;
+	background-color: red;
+
+}
+
+.gayathri{
+	color:red;
+	background-color: green;
+}
+
+h3,p{
+	text-align: center;
+}
+
+
+*{
+   font-size: 25px;
+}
+body{
+	background-color: bisque;
+}
+.parent{
+	background-color: red;
+	margin: 5%;	
+	padding:4%;
+}
+.child{
+	background-color: yellow;
+	margin:3%;
+}
